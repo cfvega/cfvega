@@ -1,10 +1,18 @@
 <h1 align="center">Hi 👋, I'm Claudio Vega</h1>
-<h3 align="center">Un simple estudiante de Ingenieria Civil Informática de la Universidad Técnica Federico Santa Maria. ~ Feliz pero no tanto</h3>
+<h3 align="center">happy but not so much 🙃</h3>
+
+- 🔭 I’m currently working on **Municipalidad de Pichidegua, providing fee-based services**
+
+- 🌱 I’m currently reinforcing learning **NodeJS**
+
+- 💬 Ask me about **Angular, NodeJS, express and Flutter/Dart**
+
+- 📫 How to reach me **claudio.vegal@sansano.usm.cl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cvegal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cvegal" height="30" width="40" /></a>
-<a href="https://fb.com/cv3gal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cv3gal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11643842" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11643842" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
